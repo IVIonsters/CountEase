@@ -1,0 +1,14 @@
+{
+  "name": "counter-app",
+  "description": "A simple counter app",
+  "scripts": {
+    "start": "vite",
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "vite": "latest"
+  },
+  "devDependencies": {}
+}
